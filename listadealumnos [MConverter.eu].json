@@ -1,10 +1,5 @@
 [
     {
-        "alumno": "TuNombre",
-        "nota": 9.5,
-        "ranking": 1
-    },
-    {
         "alumno": "Pedro",
         "nota": 9.09,
         "ranking": 10
@@ -42,4 +37,4 @@
     {
         "alumno": "David",
         "nota": 5.9,
- 
+        ]
